@@ -23,7 +23,7 @@
 
 <h1>Descrição</h1>
 <p>
-Esse projeto foi feito em equipe com outras 4 pessoas desenvolvedoras. Tivemos daily meetings para alinharmos o dia e utilizamos o trello. Aperfeiçoamos o conhecimento com o GitHub e sempre analisavamos os pull request com code Review. Fui o responsável pela estilização do projeto, desenvolver os requisitos a mim designados e ajudar os colegas que estavam com dificuldade com suas tarefas.  
+Esse projeto foi feito em equipe com outras 4 pessoas desenvolvedoras. Tivemos daily meetings para alinharmos o dia e utilizamos o trello. Aperfeiçoamos o conhecimento com o GitHub e sempre analisavamos os pull request com code Review. Fui o responsável pela estilização do projeto, desenvolver os requisitos a mim designados e ajudar os colegas que estavam com dificuldade com suas tarefas. Estou comitando tudo, pois esse commite é no meu repositório pessoal.
 </p>
 
 <h1>Rodando o teste</h1>
